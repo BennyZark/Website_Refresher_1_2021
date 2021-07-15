@@ -9,7 +9,7 @@ To make a basic website that can record a users input using a process I'm comfor
 
 # Limits:
 <ul>
- . Automatically remove any instance that is recorded on the 5th spot
+ <li>. Automatically remove any instance that is recorded on the 5th spot </li>
  . Have >3 Pages
  . Don't over do it
  . Have a clean and presentable look
