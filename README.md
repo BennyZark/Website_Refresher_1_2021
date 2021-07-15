@@ -1,7 +1,4 @@
 # Website_Refresher_1_2021
-
-<> test comment
-
 I made and effort to get this far and I will not loose it! Rob-15/07/2021
 
 # Overview:  <br />
@@ -17,6 +14,6 @@ To make a basic website that can record a users input using a process I'm comfor
 
 
 # To Do:
-. Make name (Website and Project)
-. Create Plan
+- Make name (Website and Project)
+- Create Plan
 
