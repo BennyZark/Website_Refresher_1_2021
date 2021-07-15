@@ -10,11 +10,11 @@ To make a basic website that can record a users input using a process I'm comfor
 # Limits:
     <ul>
         <li> Automatically remove any instance that is recorded on the 5th spot </li>
-        <li>Have >3 Pages</li>
-        <li>Don't over do it</li>
-        <li>Have a clean and presentable look</li>
-        <li>Have decent UI and UX</li>
-        <li>Use minimalist style (No images/Video ect.)</li>
+        <li> Have >3 Pages </li>
+        <li> Don't over do it </li>
+        <li> Have a clean and presentable look </li>
+        <li> Have decent UI and UX </li>
+        <li> Use minimalist style (No images/Video ect.) </li>
     </ul>
 
 # To Do:
